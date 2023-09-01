@@ -1,0 +1,30 @@
+{
+  "products":[    {
+    "bagde": "- 50%",
+    "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-01.jpg",
+    "name": "Stylish Watch For Man",
+    "offer": "£85.00",
+    "offerDis": "£150.00"
+  },
+  {
+    "bagde": "- 20%",
+    "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-02.jpg",
+    "name": "Polo T-shirt For Man",
+    "offer": "£25.00",
+    "offerDis": "£150.00"
+  },
+  {
+    "bagde": "- 55%",
+    "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-03.jpg",
+    "name": "Luxury Wallet For Male",
+    "offer": "£95.00",
+    "offerDis": "£150.00"
+  },
+  {
+    "bagde": "- 20%",
+    "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-04.jpg",
+    "name": "Stylish Watch For Man",
+    "offer": "£85.00",
+    "offerDis": "£150.00"
+  }]
+  }
